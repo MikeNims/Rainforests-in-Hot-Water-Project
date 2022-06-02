@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Building_America_and_IECC_Climate_Zones_by_U_S__County_Boundaries_(Generalized)</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This map layer depicts the climate zone designations used by the  U.S. Department of Energy Building America Program by county boundaries (generalized version). It is intended as an aid in helping builders to identify the appropriate climate designation for the counties in which they are building. The guide can be used in conjunction with guidance in the Building America Solution Center and the Best Practices builders’ guides produced by the DOE Building America Program to help builders determine which climate-specific guidance they should use. This data for this layer is taken from Building America Best Practices Series, Volume 7.3 - Guide to Determining  Climate Regions by County. The eight U.S. Building America climate regions described here are based on the climate designations used by the International Energy Conservation Code (IECC) and the American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE). The IECC climate zone map was developed by DOE researchers at Pacific Northwest National Laboratory with input from Building America team members, in particular Joseph Lstiburek of Building Science Corporation.a,b The IECC map was developed to provide a simplified, consistent approach to defining climate for implementation of various codes; it was based on widely accepted classifications of world climates that have been applied in a variety of different disciplines. The PNNL-developed map was adopted by the IECC and was first included in the IECC in the 2004 Supplement to the IECC. It first appeared in ASHRAE 90.1 in the 2004 edition. The IECC map divided the United States into eight temperatureoriented climate zones. These zones are further divided into three moisture regimes designated A, B, and C. Thus the IECC map allows for up to 24 potential climate designations. In 2003, with direction from the Building America teams, researchers at DOE’s National Renewable Energy Laboratory simplified the IECC map for purposes of the Building America Program, into eight climate zones. For reporting purposes, these are further combined into five climate categories: Hot-humid,hot-dry/mixed drymixed-humidmarinecold/very coldsubarctic.The Building America and IECC climate maps are shown in Figures 1 and 2. The climate regions are described below. Climate zone boundaries follow county boundary lines. A listing of counties comprising each climate zone is provided below, beginning on page 5. The climate region definitions are based on heating degree days, average temperatures, and precipitation as follows:Hot-HumidA hot-humid climate is defined as a region that receives more than 20 inches (50 cm) of annual precipitation and where one or both of the following occur:• A 67°F (19.5°C) or higher wet bulb temperature for 3,000 or more hours during the warmest six consecutive months of the year; or• A 73°F (23°C) or higher wet bulb temperature for 1,500 or more hours during the warmest six consecutive months of the year.The Building America hot-humid climate zone includes the portions of IECC zones 1, 2, and 3 that are in the moist category (A) below the “warm-humid” line shown on the IECC map. Mixed-HumidA mixed-humid climate is defined as a region that receives more than 20 inches (50 cm) of annual precipitation, has approximately 5,400 heating degree days (65°F basis) or fewer, and where the average monthly outdoor temperature drops below 45°F (7°C) during the winter months.The Building America mixed-humid climate zone includes the portions of IECC zones 4 and 3 in category A above the “warmhumid” line. Hot-DryA hot-dry climate is defined as a region that receives less than  20 inches (50 cm) of annual precipitation and where the monthly average outdoor temperature remains above 45°F (7°C) throughout the year.The Building America hot-dry climate zone corresponds to the portions of IECC zones 2 and 3 in the dry category.Mixed-Dry A mixed-dry climate is defined as a region that receives less than 20 inches (50 cm) of annual precipitation, has approximately 5,400 heating degree days (65°F basis) or less, and where the average monthly outdoor temperature drops below 45°F (7°C) during the winter months.The Building America mixed-dry climate zone corresponds to IECC climate zone 4 B (dry).Cold A cold climate is defined as a region with between 5,400 and 9,000 heating degree days (65°F basis).The Building America cold climate corresponds to the IECC climate zones 5 and 6.Very-Cold A very cold climate is defined as a region with between 9,000 and 12,600 heating degree days (65°F basis).The Building America very cold climate corresponds to IECC climate zone 7.SubarcticA subarctic climate is defined as a region with 12,600 heating degree days (65° basis) or more. The only subarctic regions in the United States are in found Alaska, which is not shown in Figure 1.The Building America subarctic climate zone corresponds to IECC climate zone 8.Marine A marine climate is defined as a region that meets all of the following criteria: • A coldest month mean temperature between 27°F (-3°C) and 65°F (18°C)• A warmest month mean of less than 72°F (22°C)• At least 4 months with mean temperatures higher than 50°F (10°C)• A dry season in summer. The month with the heaviest precipitation in the cold season has at least three times as much precipitation as the month with the least precipitation in the rest of the year. The cold season is October through March in the Northern Hemisphere and April through September in the Southern Hemisphere.The Building America marine climate corresponds to those portions of IECC climate zones 3 and 4 located in the “C” moisture category. Building America and  IECC Climate ZonesThe table below shows the relationship between the Building America and IECC climate zones.
+
+
+
+  
+    Building America
+    IECC
+  
+  
+    Subarctic
+    Zone 8
+  
+  
+    Very Cold
+    Zone 7
+  
+  
+    Cold
+    Zone 5 and 6
+  
+  
+    Mixed-Humid
+    4A and 3A counties above warm-humid line
+  
+  
+    Mixed-Dry
+    Zone 4B
+  
+  
+    Hot-Humid
+    2A and 3A counties below warm-humid line
+  
+  
+    Hot-Dry
+    Zone 3B
+  
+  
+    Marine
+    All counties with a “C” moisture regime
+  </abstract>
+            <purpose>This map layer depicts the climate zone designations used by the  U.S. Department of Energy Building America Program by county boundaries (generalized).</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Climate Zones</themekey>
+                <themekey>Boundaries</themekey>
+                <themekey>EIA</themekey>
+                <themekey>EIA.gov</themekey>
+                <themekey>Energy</themekey>
+                <themekey>Energy Information Administration</themekey>
+                <themekey>Pacific Northwest National Laboratory</themekey>
+                <themekey>U.S. Department of Energy</themekey>
+                <themekey>DOE</themekey>
+                <themekey>PNNL</themekey>
+                <themekey>Climate</themekey>
+                <themekey>Zones</themekey>
+                <themekey>Regions</themekey>
+                <themekey>Heating</themekey>
+                <themekey>Cooling</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>Users MUST have read and signed the Rules of Behavior.</useconst>
+        <datacred>Pacific Northwest National Laboratory, U.S. Department of Energy</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20200814</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
