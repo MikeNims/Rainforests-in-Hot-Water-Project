@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation><citeinfo>
+				<origin>Ecotrust</origin><origin>Pacific GIS</origin><origin>Conservation International</origin>
+				<pubdate>1995</pubdate>
+				<title>Coastal Temperate Rain Forest of Western North America - Original Distribution</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo><pubdate />
+					<pubplace>Portland, OR</pubplace>
+					<publish>The Rain Forests of Home: An Atlas of People and Place. Part 1: Natural Forests and Native Languages of the Coastal Temperate Rainforest.</publish>
+				</pubinfo>
+				
+				
+			<othercit>&lt;b&gt;Title:&lt;/b&gt; Coastal Temperate Rain Forest of Western North America - Original Distribution&lt;br/&gt;&lt;b&gt;Credits:&lt;/b&gt; Ecotrust, Pacific GIS, Conservation International&lt;br/&gt;&lt;b&gt;Publication Date:&lt;/b&gt; 1995&lt;br/&gt;&lt;b&gt;Publisher:&lt;/b&gt; The Rain Forests of Home: An Atlas of People and Place. Part 1: Natural Forests and Native Languages of the Coastal Temperate Rainforest.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Larger Works:&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Title:&lt;/b&gt; The Rain Forests of Home: An Atlas of People and Place.  Part 1: Natural Forests and Native Languages of the Coastal Temperate Rainforest.&lt;br/&gt;&lt;b&gt;Credits:&lt;/b&gt; Ecotrust, Pacific GIS, Conservation International&lt;br/&gt;&lt;b&gt;Publication Date:&lt;/b&gt; 1995&lt;br/&gt;&lt;b&gt;Publisher:&lt;/b&gt; Ecotrust, Pacific GIS, and Conservation International&lt;br/&gt;</othercit><onlink /></citeinfo>
+		<citeinfo /><citeinfo /><citeinfo /></citation>
+		<descript>
+			<abstract>This dataset represents the probable original (prior to European
+settlement) distribution of the coastal temperate rain forest of western
+North America.  &lt;br /&gt;
+&lt;br /&gt;
+Excerpt from &amp;quot;The Rain Forests of Home: An Atlas of People and
+Place. Part 1: Natural Forests and Native Languages of the Coastal
+Temperate Rainforest&amp;quot; (p. 11): Different methods were used
+throughout the range of coastal temperate rain forest to delineate
+probable original extent, depending on information availability.  For
+British Columbia, the coastal western hemlock zone from the Ministry of
+Forest's biogeoclimatic zone classification was used to determine the
+temperate rain forest zone.  The coast redwood zone was also mapped,
+based on a data layer of vegetation cover types of California.  Outside
+British Columbia and California, areas having at least 1400 millimeters
+average annual precipitation were combined with areas having a mean
+annual temperature range of less than 22 degrees Celsius to distinguish
+temperate from wet boreal forests.  The combined dataset, showing wet
+temperate areas, was then filtered with elevation data to exclude areas
+above 3,000 feet, which would be snow-dominated during winter.  Areas of
+permanent snow and ice at the northern end of the range and non-forest
+areas (barren, shrub-dominated, and rock) were filtered out using
+generalized land cover data (based on the NDVI data set from the AVHRR
+satellite sensor).  The resulting layer, combined with the coastal
+western hemlock biogeoclimatic zone for British Columbia and the redwood
+zone for California, represents the probable pre-European settlement
+distribution of coastal temperate rain forest.</abstract>
+			<purpose>The purpose of this dataset is to represent the original distribution of the coastal temperate rainforest.</purpose>
+			<supplinf></supplinf>
+		</descript>
+		<timeperd><timeinfo><sngdate /><current /></timeinfo>
+			<current>publication date</current><timeinfo /><timeinfo /><timeinfo /></timeperd>
+		
+		<keywords>
+			
+		<theme><themekey>coastal temperate Rain Forest</themekey><themekey>pacific northwest</themekey><themekey>hemlock</themekey><themekey>redwood</themekey><themekey>pre-european vegetation</themekey><themekt>Data Basin tags</themekt></theme></keywords>
+		<accconst>None</accconst>
+		<useconst>&lt;a rel="license" style="float:right;" href="http://creativecommons.org/licenses/by/3.0/" target="_blank"&gt;&lt;img alt="Creative Commons License" style="border-width:0" src="http://creativecommons.org/images/public/somerights20.png" /&gt;&lt;/a&gt;This work is licensed under a &lt;a rel="license" href="http://creativecommons.org/licenses/by/3.0/" target="_blank"&gt;Creative Commons Attribution 3.0 License&lt;/a&gt;.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp><cntper /><cntorg>&lt;a href='www.inforain.org'&gt;EcoTrust&lt;/a&gt;</cntorg></cntperp>
+				
+				
+				
+				
+			<cntemail /></cntinfo>
+		<cntinfo /><cntinfo /><cntinfo /></ptcontac>
+		<datacred>This digital file was obtained from Inforain (www.inforain.org) on March 3, 2008.</datacred>
+	<status><progress>Complete</progress><update>None Planned</update></status><spdom><bounding /><bounding /><bounding /></spdom></idinfo>
+	<dataqual>
+		<attracc>
+		<attraccr></attraccr></attracc>
+	<complete /><lineage /></dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm><sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>768</ptvctcnt></sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph><latres>0</latres><longres>0</longres><geogunit>Decimal degreees</geogunit></geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn><ellips>WGS_1984</ellips><semiaxis>6378137.000000</semiaxis><denflat>298.257224</denflat>
+			</geodetic>
+		</horizsys>/n</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>ctrf</enttypl>/n<enttypd />/n<enttypds />
+			</enttyp>
+		<attr><attrlabl>FID</attrlabl><attalias>FID</attalias><attrdef /><attrdomv /></attr><attr><attrlabl>Shape</attrlabl><attalias>Shape</attalias><attrdef /><attrdomv /></attr><attr><attrlabl>CRTF</attrlabl><attalias>CRTF</attalias><attrdef>unknown</attrdef><attrdomv /></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<stdorder>
+			<digform>
+				<digtopt><onlinopt>
+						<computer><networka><networkr /></networka></computer>
+						<accinstr />
+					</onlinopt>
+				</digtopt>
+			</digform>
+		</stdorder>
+		<distrib>
+			<cntinfo>
+				<cntperp><cntper /><cntorg /></cntperp>
+				<cntpos />
+			</cntinfo>
+		</distrib>
+		<distliab />
+	</distinfo>
+	<metainfo>
+		<metd />
+		<metc>
+			<cntinfo>
+				<cntorgp><cntorg /><cntper /></cntorgp>
+				<cntpos />
+				<cntaddr>
+					<addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+					<city>REQUIRED: The city of the address.</city>
+					<state>REQUIRED: The state or province of the address.</state>
+					<postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+					<country />
+				</cntaddr>
+				<cntvoice>REQUIRED: The telephone number by which individuals can speak to the organization or individual.</cntvoice>
+			</cntinfo>
+		</metc>
+		<metstdn />
+		<metstdv />
+	</metainfo>
+	<Esri><CreaDate>20100512</CreaDate><CreaTime>15292800</CreaTime><SyncOnce>TRUE</SyncOnce><ArcGISFormat>1.0</ArcGISFormat><DataProperties><lineage><Process ToolSource="D:\Program Files\ArcGIS\Server9.4\ArcToolbox\Toolboxes\Data Management Tools.tbx\Project" Date="20100512" Time="152928">Project D:\\arcgisserver\\services\import\9bb9859d08bb49e1890b953199507b0c\data\ctrf\ctrf.shp D:\\arcgisserver\\services\import\9bb9859d08bb49e1890b953199507b0c\data\ctrf\p_ctrf.shp PROJCS['WGS_1984_Web_Mercator',GEOGCS['GCS_WGS_1984_Major_Auxiliary_Sphere',DATUM['D_WGS_1984_Major_Auxiliary_Sphere',SPHEROID['WGS_1984_Major_Auxiliary_Sphere',6378137.0,0.0]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Mercator'],PARAMETER['False_Easting',0.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',0.0],PARAMETER['Standard_Parallel_1',0.0],UNIT['Meter',1.0]] WGS_1984_Major_Auxiliary_Sphere_To_WGS_1984 GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]]</Process></lineage></DataProperties></Esri></metadata>

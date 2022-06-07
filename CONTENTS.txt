@@ -1,0 +1,37 @@
+# Dataset Title
+Coastal Temperate Rain Forest of Western North America - Original Distribution
+
+
+# URL
+http://databasin.org/datasets/9bb9859d08bb49e1890b953199507b0c
+
+
+# Dataset Type
+ArcGIS
+
+
+# Credits
+Ecotrust, Pacific GIS, Conservation International
+
+
+# Uploaded By
+[Conservation Biology Institute](http://databasin.org/people/consbio)
+
+
+# Description
+This dataset represents the probable original (prior to Europeansettlement) distribution of the coastal temperate rain forest of westernNorth America.  
+  
+Excerpt from &quot;The Rain Forests of Home: An Atlas of People andPlace. Part 1: Natural Forests and Native Languages of the CoastalTemperate Rainforest&quot; (p. 11): Different methods were usedthroughout the range of coastal temperate rain forest to delineateprobable original extent, depending on information availability. ForBritish Columbia, the coastal western hemlock zone from the Ministry ofForest&#39;s biogeoclimatic zone classification was used to determine thetemperate rain forest zone. The coast redwood zone was also mapped,based on a data layer of vegetation cover types of California. OutsideBritish Columbia and California, areas having at least 1400 millimetersaverage annual precipitation were combined with areas having a meanannual temperature range of less than 22 degrees Celsius to distinguishtemperate from wet boreal forests. The combined dataset, showing wettemperate areas, was then filtered with elevation data to exclude areasabove 3,000 feet, which would be snow-dominated during winter. Areas ofpermanent snow and ice at the northern end of the range and non-forestareas (barren, shrub-dominated, and rock) were filtered out usinggeneralized land cover data (based on the NDVI data set from the AVHRRsatellite sensor). The resulting layer, combined with the coastalwestern hemlock biogeoclimatic zone for British Columbia and the redwoodzone for California, represents the probable pre-European settlementdistribution of coastal temperate rain forest.
+
+
+# Use Constraints
+This work is licensed under a Creative Commons Attribution 3.0 License.
+
+
+### Original Metadata
+metadata/metadata1_original.xml
+
+
+### Data Basin Metadata
+metadata/metadata1.xml
+
