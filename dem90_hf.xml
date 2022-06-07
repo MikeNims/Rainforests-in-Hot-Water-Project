@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Steven E. Hanser</origin>
+        <pubdate>2008</pubdate>
+        <title>Elevation in the Western United States (90 meter DEM)</title>
+        <geoform>raster digital data</geoform>
+        <onlink>https://www.sciencebase.gov/catalog/item/542aebf9e4b057766eed286a?community=Forest+and+Rangeland+Ecosystem+Science+Center+%28FRESC%29</onlink>
+				<serinfo>
+			<sername>Ecological Applications</sername>
+			<issue>18 / 5</issue>
+		</serinfo>
+		<pubinfo>
+			<pubplace>n/a</pubplace>
+			<publish>Wiley</publish>
+		</pubinfo>
+		<othercit>M. Leu, S.E. Hanser and S.T. Knick. 2008. The human footprint in the west: a large-scale analysis of anthropogenic impacts, pp. 1119-1139. https://doi.org/10.1890/07-0480.1</othercit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Elevation in the western United States obtained from the National Elevation Dataset. Data was converted from float point to integer format and re-sampled from 30m resolution to 90m resolution.</abstract>
+      <purpose>Base data</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2000</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+	<descgeog>western United States</descgeog>
+      <bounding>
+        <westbc>-130.4966</westbc>
+        <eastbc>-98.9252</eastbc>
+        <northbc>51.9527</northbc>
+        <southbc>27.8252</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>elevation</themekey>
+        <themekey>geoscientificInformation</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>digital elevation models</themekey>
+		<themekey>topography</themekey>
+      </theme>
+      <theme>
+        <themekt>The National Map Collection Thesaurus</themekt>
+        <themekey>National Elevation Dataset (NED)</themekey>
+      </theme>
+      <place>
+        <placekt>Common geographic areas</placekt>
+        <placekey>Washington</placekey>
+        <placekey>Oregon</placekey>
+        <placekey>California</placekey>
+        <placekey>Idaho</placekey>
+        <placekey>Nevada</placekey>
+        <placekey>Utah</placekey>
+        <placekey>Arizona</placekey>
+        <placekey>Montana</placekey>
+        <placekey>Wyoming</placekey>
+        <placekey>Colorado</placekey>
+        <placekey>New Mexico</placekey>
+      </place>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Western United States</placekey>
+      </place>
+    </keywords>
+    <accconst>No access constraints</accconst>
+    <useconst>No use constraints. Users need to read the dataset's metadata thoroughly to understand appropriate use and data limitations. The U.S. Geological Survey requests to be acknowledged as originator of these data in future products or derivative research.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>FRESC Metadata Coordinator</cntper>
+          <cntorg>USGS Forest and Rangeland Ecosystem Science Center</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>777 NW 9th St, Suite 400</address>
+          <city>Corvallis</city>
+          <state>OR</state>
+          <postal>97330</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>541-750-1030</cntvoice>
+        <cntemail>fresc_outreach@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.4.1420</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Dependent on the accuracy of the data from which this coverage was created. No additional checks for accuracy were completed on this final product.</attraccr>
+    </attracc>
+    <logic>Dependent on the logical consistency of the data from which this coverage was created. No additional checks for consistency or accuracy were completed on this final product.</logic>
+    <complete>Based on the completeness of the data from which this coverage was created. Review metadata for individual source coverages to assess completeness of each.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Unknown</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Unknown</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Geological Survey, EROS Data Center</origin>
+            <pubdate>1999</pubdate>
+            <title>National Elevation Dataset 1999</title>
+            <edition>1</edition>
+            <geoform>raster digital data</geoform>
+            <pubinfo>
+              <pubplace>Sioux Falls, SD</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1999</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>NED</srccitea>
+        <srccontr>Provided data contained in this dataset</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Obtained NED data for western US and re-sampled each piece of the NED to 90m resolution.</procdesc>
+        <srcused>NED</srcused>
+        <procdate>20030401</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Converted from floating point to integer.</procdesc>
+        <srcused>NED</srcused>
+        <procdate>20030401</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Merged all pieces of 90m integer NED.</procdesc>
+        <srcused>NED</srcused>
+        <procdate>20030401</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Clipped to western states boundary.</procdesc>
+        <srcused>NED</srcused>
+        <procdate>20030401</procdate>
+        <srcprod>dem90_hf</srcprod>
+      </procstep>
+      <procstep>
+        <procdesc>Converted original .adf file to GeoTIFF (.tif) file using ESRI ArcPro 2.6.2. 
+Metadata were reviewed and updated where possible.</procdesc>
+        <procdate>20201208</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Grid Cell</rasttype>
+      <rowcount>25944</rowcount>
+      <colcount>25235</colcount>
+      <vrtcount>1</vrtcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Albers Conical Equal Area</mapprojn>
+          <albers>
+            <stdparll>29.5</stdparll>
+            <stdparll>45.5</stdparll>
+            <longcm>-96.0</longcm>
+            <latprjo>23.0</latprjo>
+            <feast>0.0</feast>
+            <fnorth>0.0</fnorth>
+          </albers>
+        </mapproj>
+        <planci>
+          <plance>row and column</plance>
+          <coordrep>
+            <absres>90.0</absres>
+            <ordres>90.0</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North_American_Datum_1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>dem90_hf.tif</enttypl>
+        <enttypd>Raster geospatial data file.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OID</attrlabl>
+        <attrdef>Unique row identifier</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Unbounded list of numbers</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Value</attrlabl>
+        <attrdef>Elevation (m)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-83</rdommin>
+            <rdommax>4409</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Count</attrlabl>
+        <attrdef>Number of raster cells with the associated Value attribute.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>574184</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey</cntorg>
+          <cntper>GS ScienceBase</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.</distliab>
+    <stdorder>
+      <digform><digtinfo>
+          <formname>.tif</formname>
+        </digtinfo>
+        <digtopt><onlinopt><computer><networka><networkr>https://www.sciencebase.gov/catalog/item/5953f7b0e4b062508e3c7c6c</networkr></networka></computer></onlinopt></digtopt></digform>
+      <fees>No fees</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20111003</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>FRESC Metadata Coordinator</cntper>
+          <cntorg>USGS Forest and Rangeland Ecosystem Science Center</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>777 NW 9th St, Suite 400</address>
+          <city>Corvallis</city>
+          <state>OR</state>
+          <postal>97330</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>541-750-1030</cntvoice>
+        <cntemail>fresc_outreach@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
